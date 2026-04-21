@@ -1,4 +1,3 @@
-# Distribution Network (DistNet) - Paper Submission Code
 
 This repository contains the implementation code for the paper "Explainable Predictions of Algorithm Performance Distributions" submitted to IJCAI-ECAI 2026
 
